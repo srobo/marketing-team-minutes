@@ -218,7 +218,7 @@ def parse_args() -> argparse.Namespace:
         'actions_files',
         metavar='MINUTES.md',
         nargs='+',
-        type=argparse.FileType(mode='r+'),
+        type=argparse.FileType(mode='r+', encoding='utf-8'),
     )
     return parser.parse_args()
 

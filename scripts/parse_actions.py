@@ -3,7 +3,7 @@ import typing
 import urllib.parse
 
 REPO_OWNER = 'srobo'
-REPO_NAME = 'competition-team-minutes'
+REPO_NAME = 'marketing-team-minutes'
 
 Action = typing.NamedTuple('Action', (
     ('id', typing.Optional[int]),
