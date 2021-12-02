@@ -12,13 +12,13 @@
 
 ## Agenda
 
-1. ...
+- ...
 
 ## Topics
 
-1. Minutes to be reviewed in relevant pull request on GitHub
+- Minutes to be reviewed in relevant pull request on GitHub
 
-2.
+-
 
 ## Action Points
 
